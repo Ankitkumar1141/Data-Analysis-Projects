@@ -14,5 +14,3 @@ This project involves analyzing Adidas US sales data and creating an interactive
 - Most of the sales occur in-store, compared to online and outlets.
 - New York is the state where the highest Adidas sales have taken place in the US.
 
-### Dashboard
-![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/2639aa9e90832a6476099cb344b1447988336d6a/Adidas%20Sales%20Analysis/Adidas_Sales_Dashboard.png)
