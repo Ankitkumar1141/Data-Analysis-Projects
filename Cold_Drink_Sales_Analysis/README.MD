@@ -20,4 +20,4 @@ Sodapop is the largest Coca-Cola retailer with total sales exceeding $4 million.
 
 
 #### Dashboard
-![Coca Cola Sales Dashboard](Coca_cola Sales Dashboard.jpeg)
+![Coca Cola Sales Dashboard](Cold_Drink_Sales_Analysis/Coca_cola Sales Dashboard.jpeg)
