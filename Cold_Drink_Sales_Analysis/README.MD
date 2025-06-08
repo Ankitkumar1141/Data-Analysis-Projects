@@ -17,7 +17,3 @@ Microsoft Excel
 New York is the state where the highest number of units is sold: 1,125,200.
 In the month of December, the highest sales occur, totaling $1,045,775.
 Sodapop is the largest Coca-Cola retailer with total sales exceeding $4 million.
-
-
-#### Dashboard
-![Coca Cola Sales Dashboard](Cold_Drink_Sales_Analysis/Coca_cola Sales Dashboard.jpeg)
